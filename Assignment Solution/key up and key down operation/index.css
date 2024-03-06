@@ -1,0 +1,14 @@
+body{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#txt{
+  background-color: beige;
+}
+#txt1{
+  background-color: blueviolet;
+  color: aliceblue;
+}

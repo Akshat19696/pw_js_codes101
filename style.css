@@ -1,0 +1,22 @@
+h1{
+    color:rgb(201, 68, 68);
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* body{
+    background-image: url('https://wallpaperaccess.com/full/138728.jpg');
+    background-size:cover;
+    background-repeat:inherit;
+} */
+.new{
+    height: 200px;
+    width: 200px;
+    background-color:rgb(154, 148, 148);
+    display:block;
+    transition:3s ;
+}
+.new:hover{
+    border-radius:50%;
+}

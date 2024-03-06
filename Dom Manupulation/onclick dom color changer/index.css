@@ -1,0 +1,14 @@
+body{
+  height: 100vh;
+  display:flex;
+  justify-content: center;
+  align-items: center;  
+}
+button{
+  padding:16px;
+  border-radius:14px;
+  font-size: 13px;
+  font-weight: 800;
+  background-color: rgb(170, 162, 162);
+  color:rgb(20, 19, 21);
+}

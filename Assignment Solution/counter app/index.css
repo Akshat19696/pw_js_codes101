@@ -1,0 +1,32 @@
+body{ height: 100vh;
+  display:flex;
+  justify-content: center;
+  align-items: center;  
+}
+.counter{
+height:200px;
+width:500px;
+border-color: black;
+border-style: solid;
+}
+#text{
+  height:40px;
+  width:40px;
+  border-color: black;
+  border-style: solid;
+  border-width: 0.3px;
+  margin-left: 40px;
+  margin-right: 40px;
+  padding: 2px;
+}
+.counter h1{
+  margin-left:90px;
+} 
+#res{
+  display: block;
+  margin-left:128px;
+  margin-top: 20px;
+}
+.calc{
+  margin-left: 85px;
+}
